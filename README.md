@@ -139,41 +139,27 @@ En esta sección se ha diagramado los casos de uso de nuestra aplicación y se m
 ---
 1. Logearse a la aplicación:
 Entrar al sistemas mediante la verificación del usuario y contraseña.
-<center>
 ![Screen 1](img/Screen%202.png)
-</center>
 2. Crear una cuenta:
 El usuario brindará al sistema datos del usuario como su nickname, correo, contraseña.
-<center>
 ![Screen 2](img/Screen%204.png)
-</center>
 3. Editar Perfil:
 El usuario accederá a la opción de edición de sus datos como su nombre, usuario o correo.
-<center>
 ![Screen 3](img/Screen%206.png)
-</center>
 4. Actualizar Contraseña:
 El usuario podrá cambiar su contraseña por una más reciente verificándose primero su anterior contraseña.
-<center>
 ![Screen 4](img/Screen3.jpeg)
-</center>
 5. Recuperar Contraseña:
 El usuario colocará su correo en el sistema y recibirá un mensaje de confirmación sobre la reucperación de su contraseña
-<center>
 ![Screen 5](img/Screen%203.png)
-</center>
 
 6. Ver Perfil de Otros Usuarios:
 El usario podrá ver los perfiles de sus seguidores como de seguidos.
-<center>
 ![Screen 6](img/Screen%207.png)
-</center>
 
 7. Crear Historia Destacada:
 El usuario podrá subir sus publicaciones como historias destacadas.
-<center>
 ![Screen 7](img/Screen5.jpeg)
-</center>
 
 
 
