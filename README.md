@@ -72,6 +72,7 @@ Se puede descargar el SDK de Firebase y seguir los pasos de instalación en el s
  [SDK Firebase](https://firebase.google.com/docs/unity/setup?hl=es-419) 
 
 ![SDK Firebase](img/SDK%20Firebase.jpeg)
+
 Se debe agregar el siguiente código al inicio de la aplicación.
 ```gradle
 Firebase.FirebaseApp.CheckAndFixDependenciesAsync().ContinueWith(task => {
